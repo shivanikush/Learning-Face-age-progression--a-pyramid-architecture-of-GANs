@@ -1,4 +1,6 @@
 # Learning Face age progression- A Pyramid architecture of GANs
+![Generic badge](https://img.shields.io/badge/Deep_Learning:-green.svg) ![Generic badge](https://img.shields.io/badge/Python-V3:-blue.svg)
+![Generic badge](https://img.shields.io/badge/PyTorch:-green.svg)  ![Generic badge](https://img.shields.io/badge/GANs:-blue.svg)    ![Generic badge](https://img.shields.io/badge/Image_Processing:-green.svg)  ![Generic badge](https://img.shields.io/badge/Face_Age_Progression:-orange.svg)  ![Generic badge](https://img.shields.io/badge/Computer_Vision:-red.svg)
 # Abstract
 <br>
 Since the face age progression deals with addressing the two main aspects, i.e. aging
